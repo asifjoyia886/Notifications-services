@@ -1,0 +1,9 @@
+🔍 Toh kya kya chahiye full system ke liye?
+Kaam	Tool/API
+✅ Notification popup show	Notifications API
+✅ Background mein sunna	Service Worker
+✅ Push message receive	Push API
+✅ Server se message bhejna	Web Push Library (web-push, django-webpush)
+✅ Secure Connection (Required)	HTTPS (ngrok, cloudflared)
+✅ Subscription handle	PushManager (from Push API)
+✅ Auth / Security	VAPID keys
